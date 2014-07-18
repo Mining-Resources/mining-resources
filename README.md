@@ -22,7 +22,7 @@ Mining Companies
 
 
 ### Gold Miners
-* [AngloGoldAshanti](http://anglogoldashanti.com/)
+* [Anglo Gold Ashanti](http://anglogoldashanti.com/)
 
 ### Copper Miners
 
@@ -35,4 +35,48 @@ Mining Companies
 ---
 Commodities
 ===
+
+### Aluminium 
+
+**Resources**
+
+* [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/aluminum/mcs-2014-alumi.pdf)
+* [Wikipedia](http://en.wikipedia.org/wiki/Aluminium)
+
+### Coal
+
+**Resources**
+
+* [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/coal/mcs-2014-coal.pdf)
+* [Wikipedia](http://en.wikipedia.org/wiki/Coal)
+
+### Copper
+
+**Resources**
+
+* [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/copper/mcs-2014-coppe.pdf)
+* [Wikipedia](http://en.wikipedia.org/wiki/Copper)
+
+
+### Gold
+
+**Resources**
+
+* [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/gold/mcs-2014-gold.pdf)
+* [Wikipedia](http://en.wikipedia.org/wiki/Gold)
+
+### Iron
+
+**Resources**
+
+* [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/iron_ore/mcs-2014-feore.pdf)
+* [Wikipedia](http://en.wikipedia.org/wiki/Iron_Ore)
+
+### Silver
+
+**Resources**
+
+* [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/silver/mcs-2014-silve.pdf)
+* [Wikipedia](http://en.wikipedia.org/wiki/Silver)
+
 
