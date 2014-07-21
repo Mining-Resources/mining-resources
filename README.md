@@ -62,7 +62,8 @@ Commodities
 
 **Resources**
 
-* [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/gold/mcs-2014-gold.pdf)
+* [US Geological Society - Fact Sheet](http://minerals.usgs.gov/minerals/pubs/commodity/gold/mcs-2014-gold.pdf)
+* [US Geological Society - General Interest Publication](http://pubs.usgs.gov/gip/gold/gold.pdf)
 * [Wikipedia](http://en.wikipedia.org/wiki/Gold)
 
 ### Iron
