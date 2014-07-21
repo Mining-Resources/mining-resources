@@ -47,7 +47,7 @@ Commodities
 
 **Resources**
 
-* [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/coal/mcs-2014-coal.pdf)
+* US Geological Society
 * [Wikipedia](http://en.wikipedia.org/wiki/Coal)
 
 ### Copper
