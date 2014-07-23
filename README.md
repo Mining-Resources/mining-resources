@@ -4,13 +4,11 @@ Mining-Resources
 A curated list of mining resources from the web
 
 ---
-###Contents
+##Contents
 * [Mining Companies](#mining-companies) 
 * [Commodities](#commodities)
 
 ---
-
-
 
 Mining Companies
 =====
@@ -36,21 +34,21 @@ Mining Companies
 Commodities
 ===
 
-### Aluminium 
+## Aluminium 
 
 **Resources**
 
 * [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/aluminum/mcs-2014-alumi.pdf)
 * [Wikipedia](http://en.wikipedia.org/wiki/Aluminium)
 
-### Coal
+## Coal
 
 **Resources**
 
 * US Geological Society
 * [Wikipedia](http://en.wikipedia.org/wiki/Coal)
 
-### Copper
+## Copper
 
 **Resources**
 
@@ -58,7 +56,7 @@ Commodities
 * [Wikipedia](http://en.wikipedia.org/wiki/Copper)
 
 
-### Gold
+## Gold
 
 **Resources**
 
@@ -66,14 +64,14 @@ Commodities
 * [US Geological Society - General Interest Publication](http://pubs.usgs.gov/gip/gold/gold.pdf)
 * [Wikipedia](http://en.wikipedia.org/wiki/Gold)
 
-### Iron
+## Iron
 
 **Resources**
 
 * [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/iron_ore/mcs-2014-feore.pdf)
 * [Wikipedia](http://en.wikipedia.org/wiki/Iron_Ore)
 
-### Silver
+## Silver
 
 **Resources**
 
