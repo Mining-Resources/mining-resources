@@ -67,6 +67,7 @@ Commodities
 **Infographics**
 
 * [Visual Capitalist](http://www.visualcapitalist.com/gold-series-five-reasons-to-own-gold-part-4-5/) - Five reasons to own gold (part 4 of 5)
+* [Visual Capitalist](http://www.visualcapitalist.com/which-gold-miners-hold-the-most-supply/) - Which Gold Miners hold the most gold?
 
 ## Iron
 
