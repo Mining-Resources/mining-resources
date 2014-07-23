@@ -80,4 +80,8 @@ Commodities
 * [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/silver/mcs-2014-silve.pdf)
 * [Wikipedia](http://en.wikipedia.org/wiki/Silver)
 
+**Infographics**
+
+* [Visual Capitalist](http://www.visualcapitalist.com/silver-undercover-super-metal/) 
+
 
