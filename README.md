@@ -55,6 +55,12 @@ Commodities
 * [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/copper/mcs-2014-coppe.pdf)
 * [Wikipedia](http://en.wikipedia.org/wiki/Copper)
 
+**Infographics**
+
+* Visual Capitalist - Copper: The Essential Metal 
+ * [Part 1](http://www.visualcapitalist.com/copper-the-essential-metal/)
+ * [Part 2](http://www.visualcapitalist.com/copper-essential-metal-part-2/)
+ 
 
 ## Gold
 
@@ -74,6 +80,16 @@ Commodities
 * [Visual Capitalist](http://www.visualcapitalist.com/global-gold-mine-and-deposit-rankings-2013/) - Global Gold Mine and Deposit Rankings 2013
 * [Visual Capitalist](http://www.visualcapitalist.com/which-gold-miners-hold-the-most-supply/) - Which Gold Miners hold the most gold?
 
+##Nickel
+**Resources**
+
+* [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/nickel/mcs-2014-nicke.pdf)
+* [Wikipedia](http://en.wikipedia.org/wiki/Nickel) 
+
+**Infographics**
+
+* [Visual Capitalist](http://www.visualcapitalist.com/nickel-form-meets-function/) - Nickel: Where Form Meets Function
+
 ## Iron
 
 **Resources**
@@ -91,5 +107,9 @@ Commodities
 **Infographics**
 
 * [Visual Capitalist](http://www.visualcapitalist.com/silver-undercover-super-metal/) 
+* Visual Capitalist - The Silver Series
+ * [Part 1](http://www.visualcapitalist.com/the-silver-series-history-silver-part-1/) - The History of Silver
+ * [Part 2](http://www.visualcapitalist.com/silver-series-supply-demand-part-2/) - Supply and Demand
+ * [Part 3](http://www.visualcapitalist.com/the-silver-series-investment-part-3/) - Silver as an Investment
 
 
