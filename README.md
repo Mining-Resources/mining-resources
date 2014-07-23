@@ -64,6 +64,10 @@ Commodities
 * [US Geological Society - General Interest Publication](http://pubs.usgs.gov/gip/gold/gold.pdf)
 * [Wikipedia](http://en.wikipedia.org/wiki/Gold)
 
+**Infographics**
+
+* [Visual Capitalist](http://www.visualcapitalist.com/gold-series-five-reasons-to-own-gold-part-4-5/) - Five reasons to own gold (part 4 of 5)
+
 ## Iron
 
 **Resources**
