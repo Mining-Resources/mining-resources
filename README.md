@@ -80,6 +80,7 @@ Commodities
  * [Part 5](http://www.visualcapitalist.com/the-gold-series-2014-trends-and-beyond-part-5-of-5/) - 2014 Trends and Beyond 
 * [Visual Capitalist](http://www.visualcapitalist.com/global-gold-mine-and-deposit-rankings-2013/) - Global Gold Mine and Deposit Rankings 2013
 * [Visual Capitalist](http://www.visualcapitalist.com/which-gold-miners-hold-the-most-supply/) - Which Gold Miners hold the most gold?
+* [Visual Capitalist](http://www.visualcapitalist.com/what-is-the-cost-of-mining-gold/) - What is the cost of mining Gold?
 
 ##Nickel
 **Resources**
