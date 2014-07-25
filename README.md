@@ -76,7 +76,8 @@ Commodities
  * [Part 1](http://www.visualcapitalist.com/gold-series-sought-metal-earth-part-1-5/) - The Most Sought After Metal on Earth 
  * [Part 2](http://www.visualcapitalist.com/gold-series-unearthing-worlds-supply-part-2-5/) - Unearthing the World’s Supply 
  * [Part 3](http://www.visualcapitalist.com/gold-series-eclipsing-demand-east-part-3-5/) - The Eclipsing Demand of the East 
- * [Part 4](http://www.visualcapitalist.com/gold-series-five-reasons-to-own-gold-part-4-5/) - Five reasons to own gold 
+ * [Part 4](http://www.visualcapitalist.com/gold-series-five-reasons-to-own-gold-part-4-5/) - Five reasons to own Gold 
+ * [Part 5](http://www.visualcapitalist.com/the-gold-series-2014-trends-and-beyond-part-5-of-5/) - 2014 Trends and Beyond 
 * [Visual Capitalist](http://www.visualcapitalist.com/global-gold-mine-and-deposit-rankings-2013/) - Global Gold Mine and Deposit Rankings 2013
 * [Visual Capitalist](http://www.visualcapitalist.com/which-gold-miners-hold-the-most-supply/) - Which Gold Miners hold the most gold?
 
