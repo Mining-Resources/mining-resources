@@ -47,6 +47,7 @@ Commodities
 
 * US Geological Society
 * [Wikipedia](http://en.wikipedia.org/wiki/Coal)
+* University of Calgary - [Energy Education](http://energyeducation.ca/encyclopedia/Coal)
 
 ## Copper
 
