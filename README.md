@@ -109,10 +109,20 @@ Commodities
 
 **Infographics**
 
-* [Visual Capitalist](http://www.visualcapitalist.com/silver-undercover-super-metal/) 
+* [Visual Capitalist](http://www.visualcapitalist.com/silver-undercover-super-metal/) - Silver: the Undercover Super Metal
+
 * Visual Capitalist - The Silver Series
+
  * [Part 1](http://www.visualcapitalist.com/the-silver-series-history-silver-part-1/) - The History of Silver
- * [Part 2](http://www.visualcapitalist.com/silver-series-supply-demand-part-2/) - Supply and Demand
+ * [Part 2](http://www.visualcapitalist.com/silver-series-supply-demand-part-2/) - Supply and Demand 
  * [Part 3](http://www.visualcapitalist.com/the-silver-series-investment-part-3/) - Silver as an Investment
+ 
+
+* Visual Capitalist - 2015 Silver Series
+
+ * [Part 1](http://www.visualcapitalist.com/silver-series-many-phases-silver-part-1-4/) - The Many phases of silver
+ * [Part 2](http://www.visualcapitalist.com/silver-series-who-controls-worlds-supply-part-2-4/) - Who controls the world's supply
+ * Part 3 - TBA
+ * Part 4 - TBA
 
 
