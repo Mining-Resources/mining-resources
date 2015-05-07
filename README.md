@@ -41,6 +41,10 @@ Commodities
 * [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/aluminum/mcs-2014-alumi.pdf)
 * [Wikipedia](http://en.wikipedia.org/wiki/Aluminium)
 
+**Infographics**
+
+* [Visual Capitalist](http://www.visualcapitalist.com/aluminum-the-metal-extraordinaire/) - Aluminum: The Metal Extraordinaire
+
 ## Coal
 
 **Resources**
