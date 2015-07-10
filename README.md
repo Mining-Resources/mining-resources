@@ -120,13 +120,13 @@ Commodities
  * [Part 1](http://www.visualcapitalist.com/the-silver-series-history-silver-part-1/) - The History of Silver
  * [Part 2](http://www.visualcapitalist.com/silver-series-supply-demand-part-2/) - Supply and Demand 
  * [Part 3](http://www.visualcapitalist.com/the-silver-series-investment-part-3/) - Silver as an Investment
- 
+
 
 * Visual Capitalist - 2015 Silver Series
 
  * [Part 1](http://www.visualcapitalist.com/silver-series-many-phases-silver-part-1-4/) - The Many phases of silver
  * [Part 2](http://www.visualcapitalist.com/silver-series-who-controls-worlds-supply-part-2-4/) - Who controls the world's supply
- * Part 3 - TBA
+ * [Part 3](http://www.visualcapitalist.com/the-silver-series-worlds-growing-demand-for-silver-part-3-of-4/) - World’s Growing Demand For Silver
  * Part 4 - TBA
 
 
