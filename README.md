@@ -127,6 +127,5 @@ Commodities
  * [Part 1](http://www.visualcapitalist.com/silver-series-many-phases-silver-part-1-4/) - The Many phases of silver
  * [Part 2](http://www.visualcapitalist.com/silver-series-who-controls-worlds-supply-part-2-4/) - Who controls the world's supply
  * [Part 3](http://www.visualcapitalist.com/the-silver-series-worlds-growing-demand-for-silver-part-3-of-4/) - World’s Growing Demand For Silver
- * Part 4 - TBA
-
+ * [Part 4](http://www.visualcapitalist.com/the-silver-series-making-the-case-for-silver-part-4-of-4/) - Making The Case For Silver
 
