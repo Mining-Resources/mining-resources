@@ -59,6 +59,7 @@ Commodities
 
 * [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/copper/mcs-2014-coppe.pdf)
 * [Wikipedia](http://en.wikipedia.org/wiki/Copper)
+* [Copper.org](http://www.copper.org/resources/market_data/pdfs/annual_data.pdf)
 
 **Infographics**
 
