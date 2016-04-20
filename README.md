@@ -30,6 +30,9 @@ Mining Companies
 
 ...etc
 
+###Wikipedia
+* [List of Mining Companies](https://en.wikipedia.org/wiki/List_of_mining_companies)
+
 ---
 Commodities
 ===
