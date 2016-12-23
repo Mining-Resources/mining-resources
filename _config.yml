@@ -1,0 +1,8 @@
+title: Mining-resources
+description: A curated list of mining resources from the web
+google_analytics: UA-53022440-1
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
