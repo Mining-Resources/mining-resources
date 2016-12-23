@@ -4,6 +4,7 @@ Mining-Resources
 A curated list of mining resources from the web
 
 ---
+
 ## Contents
 
 * [Mining Companies](#mining-companies) 
