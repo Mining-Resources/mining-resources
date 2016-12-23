@@ -4,7 +4,8 @@ Mining-Resources
 A curated list of mining resources from the web
 
 ---
-##Contents
+## Contents
+
 * [Mining Companies](#mining-companies) 
 * [Commodities](#commodities)
 
@@ -34,8 +35,9 @@ Mining Companies
 * [List of Mining Companies](https://en.wikipedia.org/wiki/List_of_mining_companies)
 
 ---
+
 Commodities
-===
+=====
 
 ## Aluminium 
 
@@ -92,6 +94,7 @@ Commodities
 * [Visual Capitalist](http://www.visualcapitalist.com/what-is-the-cost-of-mining-gold/) - What is the cost of mining Gold?
 
 ##Nickel
+
 **Resources**
 
 * [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/nickel/mcs-2014-nicke.pdf)
