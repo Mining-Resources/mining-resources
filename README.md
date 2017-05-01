@@ -44,7 +44,7 @@ Commodities
 
 **Resources**
 
-* [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/aluminum/mcs-2014-alumi.pdf)
+* [US Geological Society](https://minerals.usgs.gov/minerals/pubs/commodity/aluminum/mcs-2017-alumi.pdf)
 * [Wikipedia](http://en.wikipedia.org/wiki/Aluminium)
 
 **Infographics**
