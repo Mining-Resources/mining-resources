@@ -63,7 +63,7 @@ Commodities
 
 **Resources**
 
-* [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/copper/mcs-2016-coppe.pdf)
+* [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/copper/mcs-2017-coppe.pdf)
 * [Wikipedia](http://en.wikipedia.org/wiki/Copper)
 * [Copper.org](http://www.copper.org/resources/market_data/pdfs/annual_data.pdf)
 
@@ -78,7 +78,7 @@ Commodities
 
 **Resources**
 
-* [US Geological Society - Fact Sheet](http://minerals.usgs.gov/minerals/pubs/commodity/gold/mcs-2016-gold.pdf)
+* [US Geological Society - Fact Sheet](http://minerals.usgs.gov/minerals/pubs/commodity/gold/mcs-2017-gold.pdf)
 * [US Geological Society - General Interest Publication](http://pubs.usgs.gov/gip/gold/gold.pdf)
 * [Wikipedia](http://en.wikipedia.org/wiki/Gold)
 
@@ -98,7 +98,7 @@ Commodities
 
 **Resources**
 
-* [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/nickel/mcs-2016-nicke.pdf)
+* [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/nickel/mcs-2017-nicke.pdf)
 * [Wikipedia](http://en.wikipedia.org/wiki/Nickel) 
 
 **Infographics**
@@ -109,14 +109,14 @@ Commodities
 
 **Resources**
 
-* [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/iron_ore/mcs-2016-feore.pdf)
+* [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/iron_ore/mcs-2017-feore.pdf)
 * [Wikipedia](http://en.wikipedia.org/wiki/Iron_Ore)
 
 ## Silver
 
 **Resources**
 
-* [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/silver/mcs-2016-silve.pdf)
+* [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/silver/mcs-2017-silve.pdf)
 * [Wikipedia](http://en.wikipedia.org/wiki/Silver)
 
 **Infographics**
@@ -151,7 +151,7 @@ Commodities
 
 **Resources**
 
-* [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/zinc/mcs-2016-zinc.pdf)
+* [US Geological Society](http://minerals.usgs.gov/minerals/pubs/commodity/zinc/mcs-2017-zinc.pdf)
 * [Wikipedia](http://en.wikipedia.org/wiki/Zinc)
 
 **Infographics**
