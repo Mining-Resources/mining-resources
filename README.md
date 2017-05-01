@@ -85,16 +85,16 @@ Commodities
 **Infographics**
 
 * Visual Capitalist - The Gold Series
- * [Part 1](http://www.visualcapitalist.com/gold-series-sought-metal-earth-part-1-5/) - The Most Sought After Metal on Earth 
- * [Part 2](http://www.visualcapitalist.com/gold-series-unearthing-worlds-supply-part-2-5/) - Unearthing the World’s Supply 
- * [Part 3](http://www.visualcapitalist.com/gold-series-eclipsing-demand-east-part-3-5/) - The Eclipsing Demand of the East 
- * [Part 4](http://www.visualcapitalist.com/gold-series-five-reasons-to-own-gold-part-4-5/) - Five reasons to own Gold 
- * [Part 5](http://www.visualcapitalist.com/the-gold-series-2014-trends-and-beyond-part-5-of-5/) - 2014 Trends and Beyond 
+  * [Part 1](http://www.visualcapitalist.com/gold-series-sought-metal-earth-part-1-5/) - The Most Sought After Metal on Earth 
+  * [Part 2](http://www.visualcapitalist.com/gold-series-unearthing-worlds-supply-part-2-5/) - Unearthing the World’s Supply 
+  * [Part 3](http://www.visualcapitalist.com/gold-series-eclipsing-demand-east-part-3-5/) - The Eclipsing Demand of the East 
+  * [Part 4](http://www.visualcapitalist.com/gold-series-five-reasons-to-own-gold-part-4-5/) - Five reasons to own Gold 
+  * [Part 5](http://www.visualcapitalist.com/the-gold-series-2014-trends-and-beyond-part-5-of-5/) - 2014 Trends and Beyond 
 * [Visual Capitalist](http://www.visualcapitalist.com/global-gold-mine-and-deposit-rankings-2013/) - Global Gold Mine and Deposit Rankings 2013
 * [Visual Capitalist](http://www.visualcapitalist.com/which-gold-miners-hold-the-most-supply/) - Which Gold Miners hold the most gold?
 * [Visual Capitalist](http://www.visualcapitalist.com/what-is-the-cost-of-mining-gold/) - What is the cost of mining Gold?
 
-##Nickel
+## Nickel
 
 **Resources**
 
@@ -125,17 +125,17 @@ Commodities
 
 * Visual Capitalist - The Silver Series
 
- * [Part 1](http://www.visualcapitalist.com/the-silver-series-history-silver-part-1/) - The History of Silver
- * [Part 2](http://www.visualcapitalist.com/silver-series-supply-demand-part-2/) - Supply and Demand 
- * [Part 3](http://www.visualcapitalist.com/the-silver-series-investment-part-3/) - Silver as an Investment
+  * [Part 1](http://www.visualcapitalist.com/the-silver-series-history-silver-part-1/) - The History of Silver
+  * [Part 2](http://www.visualcapitalist.com/silver-series-supply-demand-part-2/) - Supply and Demand 
+  * [Part 3](http://www.visualcapitalist.com/the-silver-series-investment-part-3/) - Silver as an Investment
 
 
 * Visual Capitalist - 2015 Silver Series
 
- * [Part 1](http://www.visualcapitalist.com/silver-series-many-phases-silver-part-1-4/) - The Many phases of silver
- * [Part 2](http://www.visualcapitalist.com/silver-series-who-controls-worlds-supply-part-2-4/) - Who controls the world's supply
- * [Part 3](http://www.visualcapitalist.com/the-silver-series-worlds-growing-demand-for-silver-part-3-of-4/) - World’s Growing Demand For Silver
- * [Part 4](http://www.visualcapitalist.com/the-silver-series-making-the-case-for-silver-part-4-of-4/) - Making The Case For Silver
+  * [Part 1](http://www.visualcapitalist.com/silver-series-many-phases-silver-part-1-4/) - The Many phases of silver
+  * [Part 2](http://www.visualcapitalist.com/silver-series-who-controls-worlds-supply-part-2-4/) - Who controls the world's supply
+  * [Part 3](http://www.visualcapitalist.com/the-silver-series-worlds-growing-demand-for-silver-part-3-of-4/) - World’s Growing Demand For Silver
+  * [Part 4](http://www.visualcapitalist.com/the-silver-series-making-the-case-for-silver-part-4-of-4/) - Making The Case For Silver
 
 ## Tungsten
 
