@@ -141,6 +141,7 @@ Commodities
 
 **Resources**
 
+* [US Geological Society - Fact Sheet](https://minerals.usgs.gov/minerals/pubs/commodity/tungsten/mcs-2017-tungs.pdf)
 
 **Infographics**
 
