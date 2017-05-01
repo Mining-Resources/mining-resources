@@ -137,6 +137,15 @@ Commodities
  * [Part 3](http://www.visualcapitalist.com/the-silver-series-worlds-growing-demand-for-silver-part-3-of-4/) - World’s Growing Demand For Silver
  * [Part 4](http://www.visualcapitalist.com/the-silver-series-making-the-case-for-silver-part-4-of-4/) - Making The Case For Silver
 
+##Tungsten
+
+**Resources**
+
+
+**Infographics**
+
+* [Visual Capitalist](http://www.visualcapitalist.com/history-of-tungsten-worlds-strongest-metal/) - The History of Tungsten - World's Strongest Metal
+ 
 ## Zinc 
 
 **Resources**
