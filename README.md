@@ -69,10 +69,10 @@ Commodities
 
 **Infographics**
 
-* Visual Capitalist - Copper: The Essential Metal 
- * [Part 1](http://www.visualcapitalist.com/copper-the-essential-metal/)
- * [Part 2](http://www.visualcapitalist.com/copper-essential-metal-part-2/)
- 
+* Visual Capitalist  
+  * [Copper: The Essential Metal - Part 1](http://www.visualcapitalist.com/copper-the-essential-metal/)
+  * [Copper: The Essential Metal - Part 2](http://www.visualcapitalist.com/copper-essential-metal-part-2/)
+  * [Copper: Driving the Green Energy Revolution](http://www.visualcapitalist.com/copper-driving-green-energy-revolution/)
 
 ## Gold
 
